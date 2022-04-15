@@ -1,2 +1,10 @@
 # student-FTU
-prolect T.Kholed 
+project T.Kholed 
+#Overview 
+Cleanning data and visualization of new FTU students  
+#Tools of use
+
+#step
+Business understanding
+Data collection
+Data preparation
