@@ -1,10 +1,12 @@
 # student-FTU
 project T.Kholed 
-#Overview 
+# Overview 
 Cleanning data and visualization of new FTU students  
-#Tools of use
+# Tools of use
 
-#step
+# step
 Business understanding
 Data collection
 Data preparation
+Exploratory data analysis
+Modelling
